@@ -1,6 +1,6 @@
 # Linux Monitor Tool
 
-![Assignment Outline](images/screen1.png)
+![Assignment Outline]([images/screen1.png](https://github.com/Mohitlal-873/Monitoring-Tool/blob/main/images/Screenshot_2025-11-08_12_34_48.png))
 
 ## Objective
 Create a system monitor tool in C++ that displays real-time information about system processes, memory usage, and CPU load — similar to the `top` command.
